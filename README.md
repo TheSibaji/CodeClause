@@ -1,6 +1,6 @@
 Hey, It's Me, Sibaji!
 
-Welcome to my first real-life project! In this project, I've delved into the realms of Object-Oriented Programming (OOPS), Database Management Systems (DBMS), MySQL, and MySQL Connectivity.
+Welcome to my first real-life project! In this project, I've delved into the realms of Object-Oriented Programming (OOPS), Database Management Systems (DBMS), MySQL, and Java Database Connectivity (JDBC).
 
 ## Folder Structure
 
